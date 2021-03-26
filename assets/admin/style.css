@@ -1,0 +1,17 @@
+/*table*/
+.editTable tbody tr:hover{
+  background-color: #4E73DF;
+  color: #ffffff;
+}
+
+/*gambar Berita*/
+img.gBerita{
+	width: 300px;
+	max-width: 300px;
+
+}
+
+/*badge di detail*/
+.badge-kecil{
+	font-size: 12px;
+}
